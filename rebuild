@@ -1,0 +1,4 @@
+mysql -uroot -p kiri-shop < $1
+rm /home/artisan/Source/kiri-shop/wp-content/uploads/1* -rf
+rm /home/artisan/Source/kiri-shop/wp-content/uploads/2* -rf
+ls /home/artisan/Source/kiri-shop/wp-content/uploads/

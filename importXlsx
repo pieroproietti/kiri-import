@@ -1,0 +1,188 @@
+#!/bin/sh
+
+php xlsSheetsImport.php     xls/annick-goutal-brand/annick-goutal-brand.xlsx
+if [ $? -ne 0 ]; then
+  exit
+fi
+
+php xlsSheetsImport.php     xls/bruno-acampora-profumi-brand/bruno-acampora-profumi-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/bulgari-parfums-brand/bulgari-parfums-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/carita-brand/carita-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/carthusia-brand/carthusia-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/cartier-brand/cartier-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/christian-clive-brand/christian-clive-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+#php xlsSheetsImport.php     xls/cofanetti/cofanetti.xlsx
+
+php xlsSheetsImport.php     xls/creed-brand/creed-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/elie-saab-brand/elie-saab-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/etro-brand/etro-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/floris-london-brand/floris-london-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/fragonard-parfumeur-brand/fragonard-parfumeur-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/hermes-paris-brand/hermes-paris-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/il-profvmo-brand/il-profvmo-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/issey-miyake-brand/issey-miyake-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/jeanne-piaubert-brand/jeanne-piaubert-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/jean-paul-gaultier-brand/jean-paul-gaultier-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/kanebo-brand/kanebo-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/l-artisan-parfumeur-brand/l-artisan-parfumeur-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/laura-tonatto-brand/laura-tonatto-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/les-nez-parfurms-d-auteurs-brand/les-nez-parfurms-d-auteurs-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/lorenzo-villoresi-brand/lorenzo-villoresi-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/marinella-brand/marinella-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/marlies-moller-beauty-hair-car-brand/marlies-moller-beauty-hair-car-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/narciso-rodriguez-brand/narciso-rodriguez-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/nasomatto-brand/nasomatto-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/odori-profumo-di-firenze-brand/odori-profumo-di-firenze-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/penhaligon-s-brand/penhaligon-s-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/profumi-di-pantelleria-brand/profumi-di-pantelleria-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/reminiscence-paris-brand/reminiscence-paris-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/robert-piguet-brand/robert-piguet-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/serge-lutens-brand/serge-lutens-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/simone-cosac-profumi-brand/simone-cosac-profumi-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/taylor-of-old-bond-street-brand/taylor-of-old-bond-street-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/thierry-mugler-brand/thierry-mugler-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/truefitt-and-hill-brand/truefitt-and-hill-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi
+
+php xlsSheetsImport.php     xls/valmont-brand/valmont-brand.xlsx
+if [ $? -ne 0 ]; then
+   exit
+fi

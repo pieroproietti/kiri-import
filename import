@@ -1,0 +1,14 @@
+php createTablesAccessories.php
+# -1-pre-dbase
+php importDbase.php
+
+# -2-pre-product
+php productsInsert.php
+
+# -3-pre-brands
+php brandsInsert.php
+php brandsLinks.php
+
+# -4-pre-categories
+#php categoriesInsert.php
+#php ricalcola.php
